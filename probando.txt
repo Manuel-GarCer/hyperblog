@@ -1,1 +1,5 @@
-hola probando Git
+hola probando Git 
+
+estoy aprendiendo en Lima
+
+para tener trabajo remoto.
