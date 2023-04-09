@@ -5,7 +5,9 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 
 ## En este curso vemos de todo
-* Todos los comandos de Git
+* Todos los comandos de Gitgit
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos 
+* Todo el código de GitHub
+* Incluye ejemplos en Windows, Linux y Mac
